@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect list of forty eight members of Parliament seized on by the army, on Wednesday and Thursday Decemb. 6, 7 and the carrying some of them to a place called Hell, and others to Wallingford House : also the charge of the generall councell of the army against Mr. Denzill Hollis, commissary Copley, Major Gen. Massey, and Major Gen. Brown : with the further demands of the generall councell of the army, and twenty new proposalls to the generall, concerning the present settlement of the affaires of this kingdom.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54339</idno><idno type="EEBO-CITATION">13484288</idno>
+  <idno type="VID">99724</idno>
+  <idno type="EEBO-PROQUEST">2240859164</idno>
+  
+            <idno type="STC">Wing P1492</idno>
+            <idno type="STC">ESTC R5278</idno>
+            <idno type="OCLC">13484288</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 471:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect list of forty eight members of Parliament seized on by the army, on Wednesday and Thursday Decemb. 6, 7 and the carrying some of them to a place called Hell, and others to Wallingford House : also the charge of the generall councell of the army against Mr. Denzill Hollis, commissary Copley, Major Gen. Massey, and Major Gen. Brown : with the further demands of the generall councell of the army, and twenty new proposalls to the generall, concerning the present settlement of the affaires of this kingdom.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term type="corporate_name">England and Wales. --  Army. --  Council.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99724:1"/>
+            <pb facs="tcp:99724:1"/>
+            <p>A perfect List of forty eight Members of Parliament Seized on by the ARMY, <hi>On Wednesday and Thursday Decemb.</hi> 6, 7.</p>
+            <p>AND The carrying some of them to a place called HELL, and others to Wal<g ref="char:EOLhyphen"/>lingford House.</p>
+            <p>Also the Charge of the generall Councell of the Army against Mr. <hi>Denzill Hollis,</hi> Commissary <hi>Copley,</hi> Major Gen. <hi>Massey,</hi> and Major Gen. <hi>Brown.</hi>
+            </p>
+            <p>WITH The further Demands of the generall Councell of the Army; and twenty new Proposalls to the Generall, concerning the present Settlement of the Affaires of this Kingdom.</p>
+            <p>
+               <hi>London:</hi> Printed for <hi>A. R.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:99724:2"/>
+            <pb facs="tcp:99724:2"/>
+            <head>The further Demands and Propositions of the generall Councell of the Army.</head>
+            <p n="1">1 WHereas <hi>De<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zill Hollis</hi> Esq. <hi>Lionel Copley</hi> Fsq. Major Gen. <hi>Massey,</hi> and others of your Members, (whose Names you well know) were in the year 1647. impeached by your selves for Trea<g ref="char:EOLhyphen"/>son, or for high Crimes and Misdemeanors, in relati<g ref="char:EOLhyphen"/>on to the Treasonable Engagement in the City of <hi>London,</hi> the violence then done upon the Parliament, and the levying of a new Warr, and other evills in maintenance and prosecution thereof; and upon clear proofs against them, were by your censure expelled the House, and disabled from further trust therein, and upon new Writs issued out new Members were cho<g ref="char:EOLhyphen"/>sen and return'd in some of their roomes; and yet by the prevalance of their Faction <hi>(When in the last Sum<g ref="char:EOLhyphen"/>mers Warr divers faithfull Members were ingaged abroad upon necessary publique service, and others through Ma<g ref="char:EOLhyphen"/>lignant Tumults and Disturbances could not safely attend the House)</hi> the same persons were afterwards re-ad<g ref="char:EOLhyphen"/>mitted to sit in the House, and Vote as formerly, without any triall or satisfaction in the things where<g ref="char:EOLhyphen"/>of they were accused: We demand, that all those Members so impeached, may be forthwith secured, to be brought to Justice or Triall for their said Crimes; and that such others of their Faction, by whose Votes Councells and Confederacie, they were so re-admit<g ref="char:EOLhyphen"/>ted, may be secluded from the House, and not sit as Judges for those their confederates.</p>
+            <p n="2">2. Whereas by the Confederacy of Maj. G. <hi>Brown</hi> now Sheriff of <hi>London,</hi> with the said Impeached Mem<g ref="char:EOLhyphen"/>bers
+<pb facs="tcp:99724:3"/> and others, the Scots were invited and drawn in to invade this Kingdome the last Summer, insomuch as when upon the actuall Invasion the House procee<g ref="char:EOLhyphen"/>ded to declare them Enemies, and those that adhered to them Troytors; yet the said Confederates and o<g ref="char:EOLhyphen"/>ther treacherous Members (to the number of Ninety and odde, as upon the division of the House appea<g ref="char:EOLhyphen"/>red) did by their Councels and Votes endeavour to hinder the House from declaring against their confede<g ref="char:EOLhyphen"/>rate Invaders; We desire, That the said Maj. Gen. <hi>Brown</hi> may be also secured and brought to judgement, for that and other his treacherous Confederacies or Correspondencies with the publique and declared E<g ref="char:EOLhyphen"/>nemies of the Kingdome (which we hereby charge him with, and shall be ready to make proof of) And that the rest of the Ninety and odde persons dissenting in the said Vote, may be excluded the House, and not trusted further in your Councels.</p>
+            <p n="3">3. Whereas in a continued Series of your procee<g ref="char:EOLhyphen"/>dings for many moneths together, we have seen the prevalence of the same treacherous, corrupt and divi<g ref="char:EOLhyphen"/>ded Councels, through Factions and private Inte<g ref="char:EOLhyphen"/>rests, opposing or obstructing Justice in all kinds, di<g ref="char:EOLhyphen"/>verting your Councels from any thing of publique good, hindring any proceedings to any such Settle<g ref="char:EOLhyphen"/>ment, as would consist with security to the publique Interest, or put a reall end to the Troubles, Burthens or Hazards, of the Kingdome, and precipitating into treacherous and destructive Compliances and Con<g ref="char:EOLhyphen"/>junctions with the acknowledged Enemies thereof; and this we have seen particularly in the corrupt Councels and Resolves of receding from, and recalling the Votes of <hi>No more Addresses to the King,</hi> &amp;c. (the justnesse and necessity whereof you had once so cleared
+<pb facs="tcp:99724:3"/> to the world) also in the Votes for entertaining or seeking (after all that) a personall Treaty wtth the King your Prisoner, upon such Propositions as him<g ref="char:EOLhyphen"/>selfe should tender, as well as your own, offring upon imperfect (and those but wrested) Concessions from him, to restore him, with impunity, to Honor, Free<g ref="char:EOLhyphen"/>dome, Safety, and his Revenue, exempting all (even the principall) Authors and Actors in the last Sum<g ref="char:EOLhyphen"/>mers Warr from capitall Punishment or Triall, and bringing off the rest with Fines or Censures most in<g ref="char:EOLhyphen"/>considerable to the publique Damage and Mischief they have done; whereby both they and others are encouraged to renew and multiply the Kingdomes Troubles.</p>
+            <p>The 6. of Decemb. was presented to the Generall Councell of the Army, certain heads with many Offi<g ref="char:EOLhyphen"/>cers thought fit to be insisted on for a good and speedy settlement of the Kingdome.</p>
+            <p n="1">1 That the King, that capitall destroyer of, and shed<g ref="char:EOLhyphen"/>der of the blood of some hundred thousands of his good people in Engiand and Ireland, may be brought to publike Justice.</p>
+            <p n="2">2 That some of the principall Actors, now in your hand, may have publike justice done upon them for the innocent blood they have split.</p>
+            <p n="3">3 That the principall actors and abettors in bring<g ref="char:EOLhyphen"/>ing in the Scots Army (if found out) may be brought to justice.</p>
+            <p n="4">4 That no Negative Voices may be used in this Kingdom against the Peoples Freedom and just Li<g ref="char:EOLhyphen"/>berty.</p>
+            <p n="5">5 That the Rights and Liberties of the free-born People of England be vindicated and cleared.</p>
+            <p n="6">6 That there may be a more just and equall way for
+<pb facs="tcp:99724:4"/> election of Burgesses to the Parliament.</p>
+            <p n="7">7 That Free-quarters be taken off, and the Kingdom eased of their burthen.</p>
+            <p n="8">8 That the Revenue of the Common-wealth, by Excize, Deans and Chapters lands, Forrest lands, and the estates of Delinquents, and the parts of Papists lands, according to their estates so forfeited in any Ci<g ref="char:EOLhyphen"/>ty or County, be for the eonstant pay of the Army by assignation, according to the Establishment for De<g ref="char:EOLhyphen"/>fence of the Kingdome, and satisfying all publique debts and dammages thereof.</p>
+            <p n="9">9 That a Treasurer, with two or three Commissio<g ref="char:EOLhyphen"/>ners, in each County, City or Riding, be appointed for such service, with some of the Army, or such as they shall appoint to be joyned with them, whereby the Re<g ref="char:EOLhyphen"/>venue of the Kingdom may be more certainly known; and not converted to private uses as heretofore, under an oath for their faithfull discharging of their trust, al<g ref="char:EOLhyphen"/>lowing them for their paines two pence in the pound, and no more.</p>
+            <p n="10">10 That all Committees, Commissioners and Se<g ref="char:EOLhyphen"/>questrators be taken away, and some strict course for bringing them to account, with all Treasurers and Collectors since the beginning of this Parliament.</p>
+            <p n="11">11 That abuses in Courts of justice be reformed; That the People have justice at their own doores for petty Actions.</p>
+            <p n="12">12 That an Office be set up in every County for the Filing of all Deeds, Bargains and Contracts within such place where the Land lies; Bargain or Contract made, be registred in such City or County, for the ease and benefit of the People.</p>
+            <p n="13">13 That the Clerk of the Peace for each City and County do take an Oath for the due execution of the
+<pb facs="tcp:99724:4"/> same; and that four pence be allowed him for the re<g ref="char:EOLhyphen"/>gistring of every Deed, Bargain or Contract, with the like sum of foure pence for every Search.</p>
+            <p n="14">14 That free Trade may be incouraged, and some stricter course taken to protect Merchants, that they be not robbed and spoiled of their estates at Sea by Eng<g ref="char:EOLhyphen"/>lish and Irish Pirats.</p>
+            <p n="15">15 That it may be made death to transport Wooll, Yarn, or Fullers earth beyond Seas.</p>
+            <p n="16">16 That Tythes belonging to the Clergy be taken away, and a land-rate thorow the Kingdom in every Parish, equall by value to Tithes, for their mainte<g ref="char:EOLhyphen"/>nance.</p>
+            <p n="17">17 That some publike place, in every City or County for a Treasury, be kept for that end onely; and the Justices of the Peace for such City or County, to receive and pay them their severall proportions, as shall arise out of every Parish, to the Ministers of the said place quarterly.</p>
+            <p n="18">18 That the six Clarks Office be taken away, for their intolerable exactions of eight pence a sheet, for e<g ref="char:EOLhyphen"/>very Bill and Answer filing in that Court, and ten shil<g ref="char:EOLhyphen"/>lings for every Commission.</p>
+            <p>That the Clerks belonging to the Chancery, may be sworn Attourneys of that Court, who may be allow<g ref="char:EOLhyphen"/>ed two pence a sheet for every Bill and Answer draw<g ref="char:EOLhyphen"/>ing, and half a crown for every Commission.</p>
+            <p n="20">20. That all Finall Lawes may be reviewed, what shall be thought destructive to the people, may be ta<g ref="char:EOLhyphen"/>ken away; and what shall be thought necessary, to be continued, such penalty may be imployed for the pub<g ref="char:EOLhyphen"/>like use of every County or City, where the offence shall be committed.</p>
+            <list>
+               <pb facs="tcp:99724:5"/>
+               <head>A List of the Members of Parliament seized by the Army.</head>
+               <item>Sir Robert Harlow.</item>
+               <item>Col. Harlow.</item>
+               <item>Mr. Prynne.</item>
+               <item>Sir Gilbert Gerrard. sen.</item>
+               <item>Gilbert Gerrard jun.</item>
+               <item>Sir VValter Erle.</item>
+               <item>Sir Robert Pye.</item>
+               <item>Mr. Pierpoint.</item>
+               <item>Mr. Pelham.</item>
+               <item>Col. Birch.</item>
+               <item>Mr. Knightly.</item>
+               <item>Mr. VVheeler.</item>
+               <item>Commissary Copley.</item>
+               <item>Mr. Green.</item>
+               <item>Col. VVhitehead.</item>
+               <item>Mr. John Stephens.</item>
+               <item>Mr. Swynfyn.</item>
+               <item>Sir VVilliam VValler.</item>
+               <item>Major Generall Massey.</item>
+               <item>Mr. Denzill Hollis.</item>
+               <item>Mr. Glyn Recorder.</item>
+               <item>Mr. VVingate.</item>
+               <item>Sir Roger North.</item>
+               <item>Mr. Drake.</item>
+               <item>Mr. Nicholls.</item>
+               <item>Sir Simon D'Ewes.</item>
+               <item>Sir Harbottle Grimston.</item>
+               <item>Sir Samuel Luke.</item>
+               <item>Sir Richard Anslow.</item>
+               <item>Sir John Merrick.</item>
+               <item>Sir Martin Lyster.</item>
+               <item>Lord VVenman.</item>
+               <item>Sir Francis Gerrard.</item>
+               <item>Mr. Crew.</item>
+               <item>Mr. Buller.</item>
+               <item>Mr. Bunkley.</item>
+               <item>Col. Leigh.</item>
+               <item>Sir Anthony Irby.</item>
+               <item>Sir Thomas Soame.</item>
+               <item>Mr. Lane.</item>
+               <item>Mr. Bowton.</item>
+               <item>Mr. Priestly.</item>
+               <item>Sir VVilliam Lewes.</item>
+               <item>Sir John Clotworthy.</item>
+               <item>Mr. Vaughan.</item>
+               <item>Sir Benjamin Rudierd.</item>
+               <item>and Mr. Nath Fiennes, were likewise taken into custo<g ref="char:EOLhyphen"/>dy, but afterwards released by Orders from the Lord Generall.</item>
+            </list>
+            <p>Most of these Members being seized on at the house doore, or coming to it, they were carried into the Queenes Court, where a Colonell of the Army came to them, and told them that the Army had Orders for what was done, whereupon the Members submitted, and after a time some of them were carryed to a victu<g ref="char:EOLhyphen"/>alling house called Hell, and others to VVallingford house over against VVhitehall.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:99724:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
